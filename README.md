@@ -37,3 +37,8 @@ Each pattern includes:
 ## Purpose
 
 This repo acts as a blueprint for senior engineers, SREs, and platform teams designing mission-critical infrastructure. It helps standardize good patterns, accelerate onboarding, and provide reusable building blocks for reliable systems.
+
+### Resilience Patterns
+- [Circuit Breaker](patterns/resilience/circuit-breaker.md)
+- [Bulkhead](patterns/resilience/bulkhead.md)
+- [Resilience Index](patterns/resilience/README.md)
