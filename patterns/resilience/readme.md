@@ -13,3 +13,4 @@ This section collects foundational patterns that improve system robustness, prev
 - Timeout
 - Load Shedding
 - Health Checks & Self-Healing
+
