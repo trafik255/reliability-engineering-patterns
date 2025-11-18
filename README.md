@@ -43,3 +43,5 @@ This repo acts as a blueprint for senior engineers, SREs, and platform teams des
 - [Bulkhead](patterns/resilience/bulkhead.md)
 - [Resilience Index](patterns/resilience/readme.md)
 - [Circuit Breaker Diagram](diagrams/circuit-breaker.md)
+- [Timeout](patterns/resilience/timeout.md)
+
