@@ -6,6 +6,8 @@ This section collects foundational patterns that improve system robustness, prev
 
 - [Circuit Breaker](circuit-breaker.md)
 - [Bulkhead](bulkhead.md)
+- [Timeout](timeout.md)
+
 
 ## Coming Next
 
