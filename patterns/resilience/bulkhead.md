@@ -150,3 +150,6 @@ They localize failure, protect critical workloads, and prevent your system from 
 
 Container ships use bulkheads to keep water from spreading.
 Distributed systems should do the same.
+
+### Diagram
+[Bulkhead Diagram](../../diagrams/bulkhead.md)
