@@ -159,3 +159,5 @@ spec:
       |----- success <---------|
 ``` 
 
+### Diagram
+See: [Circuit Breaker Diagram](../../diagrams/circuit-breaker.md)
