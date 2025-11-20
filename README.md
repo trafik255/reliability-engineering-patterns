@@ -1,4 +1,4 @@
-# Reliability-engineering-patterns
+# Reliability Engineering Patterns
 
 A curated library of production-ready patterns for reliability engineering and platform architecture.  
 This repo provides clear, practical templates for designing resilient, observable, and scalable systems—covering availability patterns, failure isolation, deployment strategies, monitoring foundations, and security hardening.
